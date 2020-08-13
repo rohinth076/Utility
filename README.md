@@ -40,3 +40,22 @@ For run     : java  Shortcut
 ```
 
 ![](Image/2.png)
+
+
+## Clock
+
+In this program I just created a simple digital clock.
+
+Using the below comment you will run this code.
+
+```
+For compile : javac EClock.java
+
+For run     : java  EClock
+```
+
+![](Image/2.png)
+
+
+![](Image/3.png)
+
