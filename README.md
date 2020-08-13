@@ -54,8 +54,6 @@ For compile : javac EClock.java
 For run     : java  EClock
 ```
 
-![](Image/2.png)
-
 
 ![](Image/3.png)
 
