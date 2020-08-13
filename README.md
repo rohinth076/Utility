@@ -20,3 +20,23 @@ For run     : java  FinderUI
 ```
 
 ![](Image/1.png)
+
+
+## ShortCut
+
+### To Open some application give the following name
+```
+- Calculator --> calc
+- Notepad    --> Notepad
+- Paint      --> mspaint
+```
+
+Using the below comment you will run this code.
+
+```
+For compile : javac Shortcut.java
+
+For run     : java  Shortcut
+```
+
+![](Image/2.png)
