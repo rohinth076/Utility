@@ -57,3 +57,19 @@ For run     : java  EClock
 
 ![](Image/3.png)
 
+
+## Screenshot
+
+Using this program we will take screenshot.
+
+Using the below comment you will run this code.
+
+```
+For compile : javac ScreenShot.java
+
+For run     : java  ScreenShot
+```
+
+After run the program, the small button appears on the screen. Using this key we will take screenshot.
+
+
